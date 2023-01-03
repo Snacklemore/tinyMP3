@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\Timer.dir/objects.a
-C:\PROGRA~1\MINGW-~1\MINGW6~1\bin\ar.exe cr CMakeFiles\Timer.dir/objects.a @CMakeFiles\Timer.dir\objects1.rsp
-C:\PROGRA~1\MINGW-~1\MINGW6~1\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\Timer.dir/objects.a -Wl,--no-whole-archive -o Timer.exe -Wl,--out-implib,libTimer.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Timer.dir\linklibs.rsp

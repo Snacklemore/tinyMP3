@@ -1,7 +1,0 @@
-[
-{
-  "directory": "E:/tinyMP3/build",
-  "command": "C:\\PROGRA~1\\MINGW-~1\\MINGW6~1\\bin\\G__~1.EXE -DIMGUI_USER_CONFIG=\\\"imconfig-SFML.h\\\" @CMakeFiles/tinyMP3.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\tinyMP3.dir\\main.cpp.obj -c E:\\tinyMP3\\main.cpp",
-  "file": "E:/tinyMP3/main.cpp"
-}
-]
