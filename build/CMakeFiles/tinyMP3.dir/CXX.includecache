@@ -732,11 +732,11 @@ SFML/Config.hpp
 
 C:/Program Files/SFM251/SFML-2.5.1-sources/SFML-2.5.1/include/SFML/Window/WindowStyle.hpp
 
-E:/Timer/main.cpp
+E:/tinyMP3/main.cpp
 imgui.h
-E:/Timer/imgui.h
+E:/tinyMP3/imgui.h
 imgui-SFML.h
-E:/Timer/imgui-SFML.h
+E:/tinyMP3/imgui-SFML.h
 SFML/Window.hpp
 -
 iostream

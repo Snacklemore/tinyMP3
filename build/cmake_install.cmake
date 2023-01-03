@@ -1,8 +1,8 @@
-# Install script for directory: E:/Timer
+# Install script for directory: E:/tinyMP3
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/Timer")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/tinyMp3Player")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "E:/Timer/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "E:/tinyMP3/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

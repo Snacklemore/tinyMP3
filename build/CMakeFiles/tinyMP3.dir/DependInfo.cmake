@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "E:/Timer/main.cpp" "E:/Timer/build/CMakeFiles/tinyMP3.dir/main.cpp.obj"
+  "E:/tinyMP3/main.cpp" "E:/tinyMP3/build/CMakeFiles/tinyMP3.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

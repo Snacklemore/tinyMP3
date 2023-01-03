@@ -61,10 +61,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = E:\Timer
+CMAKE_SOURCE_DIR = E:\tinyMP3
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = E:\Timer\build
+CMAKE_BINARY_DIR = E:\tinyMP3\build
 
 # Utility rule file for NightlyTest.
 
@@ -89,6 +89,6 @@ CMakeFiles/NightlyTest.dir/clean:
 .PHONY : CMakeFiles/NightlyTest.dir/clean
 
 CMakeFiles/NightlyTest.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" E:\Timer E:\Timer E:\Timer\build E:\Timer\build E:\Timer\build\CMakeFiles\NightlyTest.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" E:\tinyMP3 E:\tinyMP3 E:\tinyMP3\build E:\tinyMP3\build E:\tinyMP3\build\CMakeFiles\NightlyTest.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/NightlyTest.dir/depend
 

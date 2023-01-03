@@ -4,8 +4,8 @@
 
 
 # Configuration directories and files
-SourceDirectory: E:/Timer
-BuildDirectory: E:/Timer/build
+SourceDirectory: E:/tinyMP3
+BuildDirectory: E:/tinyMP3/build
 
 # Where to place the cost data store
 CostDataFile: 
@@ -26,7 +26,7 @@ SubmitURL: http://
 NightlyStartTime: 00:00:00 EDT
 
 # Commands for the build/test/submit cycle
-ConfigureCommand: "C:/Program Files/CMake/bin/cmake.exe" "E:/Timer"
+ConfigureCommand: "C:/Program Files/CMake/bin/cmake.exe" "E:/tinyMP3"
 MakeCommand: C:/Program\ Files/CMake/bin/cmake.exe --build . --config "${CTEST_CONFIGURATION_TYPE}" -- -i
 DefaultCTestConfigurationType: Release
 
@@ -57,9 +57,9 @@ P4UpdateOptions:
 P4UpdateCustom: 
 
 # Generic update command
-UpdateCommand: 
+UpdateCommand: C:/Program Files/Git/cmd/git.exe
 UpdateOptions: 
-UpdateType: 
+UpdateType: git
 
 # Compiler info
 Compiler: C:/Program Files/mingw-w64/mingw64-posix/bin/g++.exe
