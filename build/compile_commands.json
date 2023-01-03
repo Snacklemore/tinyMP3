@@ -1,0 +1,7 @@
+[
+{
+  "directory": "E:/Timer/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\MINGW6~1\\bin\\G__~1.EXE -DIMGUI_USER_CONFIG=\\\"imconfig-SFML.h\\\" @CMakeFiles/tinyMP3.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\tinyMP3.dir\\main.cpp.obj -c E:\\Timer\\main.cpp",
+  "file": "E:/Timer/main.cpp"
+}
+]
